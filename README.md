@@ -65,3 +65,13 @@ These tables are linked using relational database concepts to support advanced S
 ## Project Outcome
 
 This project demonstrates practical SQL skills required for Data Analyst and Business Analyst roles by solving real-world business problems and generating actionable insights from sales data.
+
+## Author
+
+**Saurabha Sharad Deshmukh**
+
+Email: [saurbhdeshmukh2@gmail.com](mailto:saurbhdeshmukh2@gmail.com)
+
+Phone: +91 7030847620
+
+LinkedIn:https:https://www.linkedin.com/feed/update/urn:li:activity:7468672674588909568/
